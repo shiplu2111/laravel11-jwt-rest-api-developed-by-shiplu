@@ -59,3 +59,10 @@ Feel free to open a pull request if you want to contribute to this project.
 
 For any questions, please contact me at [shiplu2111](https://github.com/shiplu2111)
 Email: me@shiplujs.com
+
+
+
+# Api Documentation :
+```url
+https://documenter.getpostman.com/view/24109673/2sAYQamXBk
+```
